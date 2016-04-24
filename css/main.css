@@ -1,7 +1,4 @@
-@font-face {
-	font-family: "Schilder";
-	src: url("../fonts/schilder/schilder.ttf") format("truetype");
-}
+
 body {
 	background-color: #110025;
 	font-family: "Raleway", Arial, sans-serif !important;
@@ -204,9 +201,6 @@ footer .nav-pills li>a:hover{
 	cursor: pointer;
 	font-weight: bold;
 }
-
-
-
 .represent .item img{
 	height:auto;
 	width:100%;
