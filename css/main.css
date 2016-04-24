@@ -1,0 +1,23 @@
+.represent .item img{
+	height:600px;
+	width:100%;
+}
+.misiones img{
+	width:100%;
+	height:230px;
+}
+.misiones ul a{
+	font-style: none;
+	text-decoration:none;
+}
+
+.hover-block.d{
+	width:14%;
+}
+.hover-block{
+	float:left;
+	height:84px;
+	display:block;
+	margin-right:2%;
+	border-radius:100%;
+}
